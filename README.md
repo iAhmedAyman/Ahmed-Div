@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ahmed-Div
+- I'm still learning and i don't have any experience yet.
+- I'm currently taking cs50 course.
+- If you want to contact me for some reason here is my email: ahmed0ayman118@gmail.com
